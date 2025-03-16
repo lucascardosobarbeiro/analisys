@@ -1,6 +1,4 @@
-Você está certo! No caso deste projeto, estamos utilizando o **Amazon Comprehend** para realizar a análise de sentimentos, e não um modelo personalizado de machine learning. O **Amazon Comprehend** é um serviço da AWS especializado em processamento de linguagem natural (NLP) e oferece uma API para detectar sentimentos, entidades, categorias e outras análises linguísticas de textos.
 
-Vamos corrigir a documentação e atualizar o foco para **Amazon Comprehend**.
 
 ---
 
